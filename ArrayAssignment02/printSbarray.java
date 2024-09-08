@@ -9,6 +9,8 @@ public class printSbarray {
                 int end =j;
                 for(int k = Start; k<=end; k++){
                     System.out.print(numbers[k] + " ");
+                    System.out.println();
+
                     
                 }
                 ts++;
